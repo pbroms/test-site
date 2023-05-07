@@ -1,0 +1,43 @@
+body{
+  font-family: 'Questrial', sans-serif;
+  background-color: #dadada;
+}
+
+.header{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #707070;
+}
+
+.title{
+  text-align: center;
+}
+
+.subtitle{
+  text-align: center;
+}
+
+.button1{
+  background-color: #dadada;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #707070;
+}
+
+a:link,
+a:visited,
+a:active{
+  text-decoration: none;
+  color: #707070;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #335d91;
+}
+
+.images{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
